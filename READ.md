@@ -1,1 +1,1 @@
-'second branch content'.
+'second branch content'
