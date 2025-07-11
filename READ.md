@@ -1,1 +1,1 @@
-'this is a proper use of the branch'
+'second branch content'.
